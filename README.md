@@ -34,6 +34,14 @@ Procuro me profissionalizar como **programadora**, **desenvolvedora de sites**, 
 * Canva.
 * VsCode.
 
+## Competências
+
+1. Trabalho em Equipe.
+2. Empatia.
+3. Criatividade.
+4. Resiliência.
+5. Adaptabilidade.
+
 
 ## Idiomas
 * Inglês - Nível Intermediário.
