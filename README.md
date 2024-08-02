@@ -17,29 +17,27 @@ Procuro me profissionalizar como **programadora**, **desenvolvedora de sites**, 
 ## Meus Trabalhos
 
 * Orçamento estrutura de redes.
-* Cabeamento de Redes.
-* IPv4 e IPv6
+* IPv4 e IPv6.
 * Internet of Things.
 * Lógica de Programação.
 
 
 ## Certificados
 
-1. Privacidade e Proteção de Dados (LGPD)
-2. Cisco
+1. Privacidade e Proteção de Dados (LGPD).
+2. Cisco.
 
 ## Experiência
 
-* Desenvolver sites em HTML
-* Programação em Python
-* Canva
-* VsCode
+* Desenvolver sites em HTML.
+* Programação em Python.
+* Canva.
+* VsCode.
 
 
 ## Idiomas
-* Inglês - Nível Intermediário
-* Espanhol - Nível Básico
-* Japonês - Nível Básico
+* Inglês - Nível Intermediário.
+* Espanhol - Nível Básico.
 
 
 ## Link para Mídias Sociais
