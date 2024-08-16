@@ -34,6 +34,7 @@ Procuro me profissionalizar como **programadora**, **desenvolvedora de sites**, 
 * Canva.
 * VsCode.
 * Figma.
+* JavaScript.
 
 ## Competências
 
