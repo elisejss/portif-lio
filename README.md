@@ -33,6 +33,7 @@ Procuro me profissionalizar como **programadora**, **desenvolvedora de sites**, 
 * Programação em Python.
 * Canva.
 * VsCode.
+* Figma.
 
 ## Competências
 
